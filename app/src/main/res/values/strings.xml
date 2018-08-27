@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Title for the application-->
+    <string name="app_name">Musical Structure App</string>
+
+    <!--Content Description used for the head_phones_image_view image in the activity_main.xml-->
+    <string name="head_phones">Headphone image</string>
+
+    <!--Content Description used for the song_icon_image_view image in the activity_now_playing.xml-->
+    <string name="album_art">Album art image</string>
+
+    <!--Content Description used for the skip_previous_button image in the activity_now_playing.xml-->
+    <string name="skip_previous">skip previous button</string>
+
+    <!--Content Description used for the play_image_button image in the activity_now_playing.xml-->
+    <string name="play_or_pause">play or pause button</string>
+
+    <!--Content Description used for the skip_next_button image in the activity_now_playing.xml-->
+    <string name="skip_next">skip next button</string>
+
+    <!--Start time used in the activity_now_playing.xml-->
+    <string name="start_time">1:00</string>
+
+    <!--Total time used in the activity_now_playing.xml-->
+    <string name="total_time">2:30</string>
+
+    <!--Content Description used for the song_list_item_icon image in the list_item.xml-->
+    <string name="album_icon">Album icon</string>
+
+    <!--Title for the PlayListActivity -->
+    <string name="my_play_list">My Play List</string>
+
+    <!--Title for the NowPlayingActivity-->
+    <string name="Now_Playing">Now Playing</string>
+
+</resources>
